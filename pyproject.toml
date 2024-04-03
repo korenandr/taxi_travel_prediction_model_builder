@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "taxi_travel_prediction_model_builder"
+version = "0.1.0"
+description = ""
+authors = [
+
+]
+maintainers = [
+
+]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+joblib = "^1.3.2"
+scikit-learn = "^1.1.1"
+pandas = "^2.2.1"
